@@ -186,16 +186,21 @@ The report should be at most 4 pages without including the bibliography and figu
 
 #### 7.7. Test Cases
 
-The following webpages contain benchmark problems in DIMACS format: [https://www.cs.ubc.ca/~hoos/SATLIB/benchm.html](https://www.cs.ubc.ca/~hoos/SATLIB/benchm.html) and [http://people.sc.fsu.edu/~jburkardt/data/cnf/cnf.html](http://people.sc.fsu.edu/~jburkardt/data/cnf/cnf.html). Those problems have a little bit different format described in the DIMACS format above; clause can be expressed on several lines, ill-formatted end lines. Therefore, you may need to modify your code or the problems to test them. However, the test cases for grading will strictly obey the DIMACS format above.
-We uploaded a zip file [here](https://github.com/hongseok-yang/logic23/blob/master/Others/Test_Case.zip) that contains some test cases we used before.
-If you implemented the DPLL algorithm in the lecture correctly, then your code will return a result in 1 minute (tested in i7 7700HQ).
-These files are just examples, not the ones that we will use to test your code for marking. We will try new test cases with various difficulty. Thus, even when your code finds righttanswers to these examples within 1 minute, it may perform badly in our real test cases, and fail to get good marks.
+The following webpages contain benchmark problems in DIMACS format: 
+
+* [https://www.cs.ubc.ca/~hoos/SATLIB/benchm.html](https://www.cs.ubc.ca/~hoos/SATLIB/benchm.html) and 
+* [http://people.sc.fsu.edu/~jburkardt/data/cnf/cnf.html](http://people.sc.fsu.edu/~jburkardt/data/cnf/cnf.html). 
+
+Those problems have a little bit different format described in the DIMACS format above; clause can be expressed on several lines, ill-formatted end lines. Therefore, you may need to modify your code or the problems to test them. However, the test cases for grading will strictly obey the DIMACS format above.  In the course webpage, we uploaded a zip file that contains some test cases we used before. To see the file, follow the below link:
+
+* [https://github.com/hongseok-yang/logic23/blob/master/Others/Test_Case.zip](https://github.com/hongseok-yang/logic23/blob/master/Others/Test_Case.zip).
+
+If you implemented the DPLL algorithm in the lecture correctly, then your code will return a result in 1 minute for every cases in the above zip file (tested in i7 7700HQ). Note that these cases are just examples, not necessarily ones that we will use to test your code for marking; we will certainly try new test cases with various difficulty. Thus, even when your code finds a right answer to every provided case within 1 minute, it may perform badly on the real test cases, and fail to get good marks.
 
 
 #### 7.8. Final Remark
 
-Make sure that your implementation handles corner cases correctly.
-There will be a timeout for each test case to check that you implemented the DPLL algorithms in the lecture properly.
+Make sure that your implementation handles corner cases correctly. There will be a timeout for each test case to check that you implemented the DPLL algorithms in the lecture properly. Finally, start this programming project as early as possible.
 
 
 ## 8. Study Materials
