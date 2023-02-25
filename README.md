@@ -216,4 +216,6 @@ Make sure that your implementation handles corner cases correctly. There will be
 
 ## 7. Study Materials
 
-Reading the lecture notes is the recommended way to study the topics that we cover. Another useful book is Bradley and Manna's book "The Calculus of Computation", which also presents logic from the perspective of computation. Knuth's book ``The Art of Computer Programming, 4B'' describes the techniques behind modern SAT solvers in detail.
+Reading the lecture notes is the recommended way to study the topics that we cover. Another useful book is Bradley and Manna's book "The Calculus of Computation", which also presents logic from the perspective of computation. Knuth's book ``The Art of Computer Programming, 4B'' describes the techniques behind modern SAT solvers in detail. Finally, the webpage of the same course for the spring 2021 contains links to recorded lectures. Here is the link to the webpage:
+
+* [https://github.com/hongseok-yang/logic21](https://github.com/hongseok-yang/logic21).
