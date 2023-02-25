@@ -55,7 +55,7 @@ Submit your solutions in KLMS. We will create submission folders for all the hom
 * Homework3
 * Homework4
 
-## 5. Tentative Plan
+## 4. Tentative Plan
 
 * 02/28(Tue) - History of Mathematical Logic in Computer Science (Ch1). 
 * 03/02(Thu) - Propositional Logic (Ch2).
