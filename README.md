@@ -28,7 +28,7 @@ We adopt a very strict policy for handling dishonest behaviours. If a student is
 
 #### Teaching Staffs
 
-* Lecturer: [Prof Hongseok Yang](https://cs.kaist.ac.kr/people/view?idx=552&kind=faculty&menu=160) (email: hongseok00@gmail.com. Office hour: 4:00pm - 5:00pm Thursday in the room 3403 in E3-1. You can find more information about it in KLMS.)
+* Lecturer: [Prof Hongseok Yang](https://cs.kaist.ac.kr/people/view?idx=552&kind=faculty&menu=160) (email: hongseok00@gmail.com. Office hour: 4:00pm - 5:00pm on Thursday in the room 3403 in the E3-1 building. You can find more information about it in KLMS.)
 * TA: Taeyoung Kim (email: taeyoungkim21@kaist.ac.kr. Office hour: to be announced.)
 * TA: Sangho Lim (limsang555@gmail.com. Office hour: to be announced.)
 
@@ -56,6 +56,40 @@ Submit your solutions in KLMS. We will create submission folders for all the hom
 * Homework4
 
 ## 5. Tentative Plan
+
+* 02/28(Tue)
+* 03/02(Thu)
+* 03/07(Tue)
+* 03/09(Thu)
+* 03/14(Tue)
+* 03/16(Thu)
+* 03/21(Tue)
+* 03/23(Thu)
+* 03/28(Tue)
+* 03/30(Thu)
+* 04/04(Tue)
+* 04/06(Thu)
+* 04/11(Tue)
+* 04/13(Thu)
+* 04/18(Tue) __**[NO LECTURE]**__ Midterm exam period.
+* 04/20(Thu) __**[NO LECTURE]**__ Midterm exam period.
+* 04/25(Tue)
+* 04/27(Thu)
+* 05/02(Tue)
+* 05/04(Thu)
+* 05/09(Tue)
+* 05/11(Thu)
+* 05/16(Tue)
+* 05/18(Thu)
+* 05/23(Tue)
+* 05/25(Thu)
+* 05/30(Tue)
+* 06/01(Thu)
+* 06/06(Tue) - __**[NO LECTURE]**__ National holiday.
+* 06/08(Thu)
+* 06/13(Tue) - __**[NO LECTURE]**__ Final exam period.
+* 06/15(Thu) - __**Final exam.**__
+
 
 * 03/01(Mon) - __**NO ZOOM MEETING.**__ National Holiday.
 * 03/03(Wed) - __**[ZOOM Lecture]**__ History of Mathematical Logic in Computer Science (Ch1). ([video](https://youtu.be/DCTZ4bYxiA0)).
