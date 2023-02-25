@@ -28,7 +28,7 @@ We adopt a very strict policy for handling dishonest behaviours. If a student is
 
 #### Teaching Staffs
 
-* Lecturer: [Prof Hongseok Yang](https://cs.kaist.ac.kr/people/view?idx=552&kind=faculty&menu=160) (email: hongseok00@gmail.com. Office hour: 4:00pm - 5:00pm Thursday. You can find more information about it in KLMS.)
+* Lecturer: [Prof Hongseok Yang](https://cs.kaist.ac.kr/people/view?idx=552&kind=faculty&menu=160) (email: hongseok00@gmail.com. Office hour: 4:00pm - 5:00pm Thursday in the room 3403 in E3-1. You can find more information about it in KLMS.)
 * TA: Taeyoung Kim (email: taeyoungkim21@kaist.ac.kr. Office hour: to be announced.)
 * TA: Sangho Lim (limsang555@gmail.com. Office hour: to be announced.)
 
@@ -36,6 +36,11 @@ We adopt a very strict policy for handling dishonest behaviours. If a student is
 
 * Place: 2443 in E3-1.
 * Time: 10:30 - 12:00 on Tuesday and Thursday.
+
+#### Final Exam
+
+* Place: 2443 in E3-1.
+* Time: 9:30 - 11:30 on 15 June 2023 (Thursday).
 
 #### Online Discussion
 
