@@ -121,7 +121,7 @@ Here are two tasks that you will have to do.
 #### 7.1. Evaluation
 
 * Implementation (20%). Report (10%). 
-* The submitted implementation will be marked automatically using our automatic tester. See the specification below.
+* The submitted implementation will be marked automatically using our script. 
 * The submitted report will be marked based on the level of originality and experimental or theoretical thoroughness in the analysis of the submitted implementation and its design decision, in a broad context of efficient SAT solving.
 
 #### 7.2. Deadline
@@ -134,20 +134,20 @@ Here are two tasks that you will have to do.
 
 #### 7.4. Formats of Input and Output
 
-1. Follow DIMACS input/output requirements. You can learn about these requirements at the following URL: [http://www.satcompetition.org/2009/format-benchmarks2009.html](http://www.satcompetition.org/2009/format-benchmarks2009.html). This is the format used in the SAT competition. 
-2. Assume that the input is always in CNF format.
+* Follow DIMACS input/output requirements. You can learn about these requirements at the following URL: [http://www.satcompetition.org/2009/format-benchmarks2009.html](http://www.satcompetition.org/2009/format-benchmarks2009.html). This is the format used in the SAT competition. 
+* Assume that the input is always in CNF format.
 
 #### 7.5. Input Interface
 
 The main file of your solver should be named as follows:
 
-solvepy2.py --- if you are using python 2.7
-solvepy3.py --- if you are usin python 3.x
+* solvepy2.py --- if you are using python 2.7
+* solvepy3.py --- if you are usin python 3.x
 
 We plan to write a script that runs your solver with a cnf formula stored in a file (according to DIMACS format). The script searches for the solvepy2.py or solvepy3.py file in your submission, and runs something like
 
-python2 solvepy2.py "testn.cnf" --- when solvepy2.py is found,
-python3 solvepy3.py "testn.cnf" --- when solvepy3.py is found.
+* python2 solvepy2.py "testn.cnf" --- when solvepy2.py is found,
+* python3 solvepy3.py "testn.cnf" --- when solvepy3.py is found.
 
 Here "testn.cnf" is just an example name of a file containing a cnf formula in DIMACS format. Of course, different test cases will use different names.
 
@@ -155,33 +155,43 @@ Here "testn.cnf" is just an example name of a file containing a cnf formula in D
 
 The output should specify SATISFIABLE/UNSATISFIABLE using s and give a partial assignment using v. So, if your solver is run
 
+```
 python3 solvepy3.py "test1.cnf"
+```
 
 but "test1.cnf" is unsatisfiable and your solver finds this out, it should return
 
+```
 s UNSATISFIABLE
+```
 
 in the standard output. On the other hand, if your solver is run
 
+```
 python3 solvepy3.py "test2.cnf"
+```
 
 but "test2.cnf" is satisfiable and your solver finds a satisfying partial assignment (2, 5, -7) meaning that variables 2 and 5 have the value 1 and the variable 7 has the value -1 in the found partial assignment, then your solver should return
 
+```
 s SATISFIABLE
 v 2 5 -7 0
+```
 
 Here 0 indicates the end of the found partial assignment. The description of a found partial assignment can be across multiple lines. For instance, in the above case, the solver may return
 
+```
 s SATISFIABLE
 v 2 5
 v -7 0
+```
 
 #### 7.6. What to Submit in KLMS?
 
 A zip file named "dpll.zip" containing two files:
 
-1. Source code of your implementation. Make sure that you follow the specifications described above. We plan to write a script that compiles and runs your code on some test cases automatically. Locate a solvepy*.py file on the root of the zip file.
-2. A report on your implementation, its design decision, and the rationale behind or justification of the decision. The report must be written by a word processor and submitted in a pdf format. (Its file name doesn't matter.) 
+* Source code of your implementation. Make sure that you follow the specifications described above. We plan to write a script that compiles and runs your code on some test cases automatically. Locate a solvepy*.py file on the root of the zip file.
+* A report on your implementation, its design decision, and the rationale behind or justification of the decision. The report must be written by a word processor and submitted in a pdf format. (Its file name doesn't matter.) 
 The report should be at most 4 pages without including the bibliography and figures.
 
 #### 7.7. Test Cases
