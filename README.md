@@ -18,7 +18,8 @@ We will adopt the following scheme for handling late submissions for homework as
 
 #### [February 25] Honour code.
 
-We adopt a very strict policy for handling dishonest behaviours. If a student is found to copy answers from peers or other sources in her or his submission for any assignment, he or she will get F. In homework submissions and reports, if you quote descriptions from certain sources (research papers or Wikipedia or other information from the web), you will have to make explicit that these descriptions are quoted, and to mention the sources of those descriptions explicitly. Otherwise, your descriptions will be regarded to violate the honour code. Finally, we strongly discourage to reuse generated texts from ChatGPT or other large language models.
+We adopt a very strict policy for handling dishonest behaviours. If a student is found to copy answers from peers or other sources in her or his submission for any assignment, he or she will get F. In homework submissions and reports, if you quote descriptions from certain sources (research papers or Wikipedia or other information from the web), you will have to make explicit that these descriptions are quoted, and to mention the sources of those descriptions explicitly. Otherwise, your descriptions will be regarded as plagiarism, and your submissions will be penalised harshly. The copy and paste of an automatically generated text from ChatGPT or other language language models will also be regarded as plagiarism.
+
 
 ## 2. Logistics
 
