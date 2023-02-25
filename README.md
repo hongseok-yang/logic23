@@ -22,27 +22,27 @@ We adopt a very strict policy for handling dishonest behaviours. If a student is
 
 ## 2. Logistics
 
-#### Evaluation
+#### 2.1. Evaluation
 
 * Homework (20%). Programming assignment and report (30%). Final exam (50%).
 
-#### Teaching Staffs
+#### 2.2. Teaching Staffs
 
 * Lecturer: [Prof Hongseok Yang](https://cs.kaist.ac.kr/people/view?idx=552&kind=faculty&menu=160) (email: hongseok00@gmail.com. Office hour: 4:00pm - 5:00pm on Thursday in the room 3403 in the E3-1 building. You can find more information about it in KLMS.)
 * TA: Taeyoung Kim (email: taeyoungkim21@kaist.ac.kr. Office hour: to be announced.)
 * TA: Sangho Lim (limsang555@gmail.com. Office hour: to be announced.)
 
-#### Place and Time
+#### 2.3. Place and Time
 
 * Place: 2443 in E3-1.
 * Time: 10:30 - 12:00 on Tuesday and Thursday.
 
-#### Final Exam
+#### 2.4. Final Exam
 
 * Place: 2443 in E3-1.
 * Time: 9:30 - 11:30 on 15 June 2023 (Thursday).
 
-#### Online Discussion
+#### 2.5. Online Discussion
 
 * We will use KLMS.
 
@@ -95,56 +95,49 @@ Submit your solutions in KLMS. We will create submission folders for all the hom
 
 The lectures are based on the following lecture notes and slides, which are minor variants of Prof Christoph Haase's version of Prof James Worrell's lecture notes and slides. The lecture notes are self-contained and explain key concepts clearly and briefly. Reading them is a recommended way to study the topics that we cover throughout the course.
 
-* History of Mathematical Logic in Computer Science. ([note](https://github.com/hongseok-yang/logic21/blob/master/Notes/lecture1-notes.pdf), [slides](https://github.com/hongseok-yang/logic21/blob/master/Slides/lecture1-slides.pdf)).
-* Propositional Logic. ([note](https://github.com/hongseok-yang/logic21/blob/master/Notes/lecture2-notes.pdf), [slides](https://github.com/hongseok-yang/logic21/blob/master/Slides/lecture2-slides.pdf)).
-* Equivalences and Normal Forms. ([note](https://github.com/hongseok-yang/logic21/blob/master/Notes/lecture3-notes.pdf), [slides](https://github.com/hongseok-yang/logic21/blob/master/Slides/lecture3-slides.pdf)).
-* Polynomial-Time Formula Classes. ([note](https://github.com/hongseok-yang/logic21/blob/master/Notes/lecture4-notes.pdf), [slides](https://github.com/hongseok-yang/logic21/blob/master/Slides/lecture4-slides.pdf)).
-* Resolution. ([note](https://github.com/hongseok-yang/logic21/blob/master/Notes/lecture5-notes.pdf), [slides](https://github.com/hongseok-yang/logic21/blob/master/Slides/lecture5-slides.pdf)).
-* The DPLL Algorithm. ([note](https://github.com/hongseok-yang/logic21/blob/master/Notes/lecture6-notes.pdf), [slides](https://github.com/hongseok-yang/logic21/blob/master/Slides/lecture6-slides.pdf)).
-* The Compactness Theorem. ([note](https://github.com/hongseok-yang/logic21/blob/master/Notes/lecture7-notes.pdf), [slides](https://github.com/hongseok-yang/logic21/blob/master/Slides/lecture7-slides.pdf)).
-* First-Order Logic. ([note](https://github.com/hongseok-yang/logic21/blob/master/Notes/lecture8-notes.pdf), [slides](https://github.com/hongseok-yang/logic21/blob/master/Slides/lecture8-slides.pdf)).
-* Normal Forms for First-Order Logic. ([note](https://github.com/hongseok-yang/logic21/blob/master/Notes/lecture9-notes.pdf), [slides](https://github.com/hongseok-yang/logic21/blob/master/Slides/lecture9-slides.pdf)).
-* Herbrand's Theorem and Ground Resolution. ([note](https://github.com/hongseok-yang/logic21/blob/master/Notes/lecture10-notes.pdf), [slides](https://github.com/hongseok-yang/logic21/blob/master/Slides/lecture10-slides.pdf)).
-* Applications of Herbrand's Theorem. ([note](https://github.com/hongseok-yang/logic21/blob/master/Notes/lecture11-notes.pdf), [slides](https://github.com/hongseok-yang/logic21/blob/master/Slides/lecture11-slides.pdf)).
-* Resolution for First-Order Logic. ([note](https://github.com/hongseok-yang/logic21/blob/master/Notes/lecture12-notes.pdf), [slides](https://github.com/hongseok-yang/logic21/blob/master/Slides/lecture12-slides.pdf)).
-* Compactness for First-Order Logic. ([note](https://github.com/hongseok-yang/logic21/blob/master/Notes/lecture13-notes.pdf), [slides](https://github.com/hongseok-yang/logic21/blob/master/Slides/lecture13-slides.pdf)).
-* Decidable Theories. ([note](https://github.com/hongseok-yang/logic21/blob/master/Notes/lecture14-notes.pdf), [slides](https://github.com/hongseok-yang/logic21/blob/master/Slides/lecture14-slides.pdf)).
+* History of Mathematical Logic in Computer Science. ([note](https://github.com/hongseok-yang/logic23/blob/master/Notes/lecture1-notes.pdf), [slides](https://github.com/hongseok-yang/logic23/blob/master/Slides/lecture1-slides.pdf)).
+* Propositional Logic. ([note](https://github.com/hongseok-yang/logic23/blob/master/Notes/lecture2-notes.pdf), [slides](https://github.com/hongseok-yang/logic23/blob/master/Slides/lecture2-slides.pdf)).
+* Equivalences and Normal Forms. ([note](https://github.com/hongseok-yang/logic23/blob/master/Notes/lecture3-notes.pdf), [slides](https://github.com/hongseok-yang/logic23/blob/master/Slides/lecture3-slides.pdf)).
+* Polynomial-Time Formula Classes. ([note](https://github.com/hongseok-yang/logic23/blob/master/Notes/lecture4-notes.pdf), [slides](https://github.com/hongseok-yang/logic23/blob/master/Slides/lecture4-slides.pdf)).
+* Resolution. ([note](https://github.com/hongseok-yang/logic23/blob/master/Notes/lecture5-notes.pdf), [slides](https://github.com/hongseok-yang/logic23/blob/master/Slides/lecture5-slides.pdf)).
+* The DPLL Algorithm. ([note](https://github.com/hongseok-yang/logic23/blob/master/Notes/lecture6-notes.pdf), [slides](https://github.com/hongseok-yang/logic23/blob/master/Slides/lecture6-slides.pdf)).
+* The Compactness Theorem. ([note](https://github.com/hongseok-yang/logic23/blob/master/Notes/lecture7-notes.pdf), [slides](https://github.com/hongseok-yang/logic23/blob/master/Slides/lecture7-slides.pdf)).
+* First-Order Logic. ([note](https://github.com/hongseok-yang/logic23/blob/master/Notes/lecture8-notes.pdf), [slides](https://github.com/hongseok-yang/logic23/blob/master/Slides/lecture8-slides.pdf)).
+* Normal Forms for First-Order Logic. ([note](https://github.com/hongseok-yang/logic23/blob/master/Notes/lecture9-notes.pdf), [slides](https://github.com/hongseok-yang/logic23/blob/master/Slides/lecture9-slides.pdf)).
+* Herbrand's Theorem and Ground Resolution. ([note](https://github.com/hongseok-yang/logic23/blob/master/Notes/lecture10-notes.pdf), [slides](https://github.com/hongseok-yang/logic23/blob/master/Slides/lecture10-slides.pdf)).
+* Applications of Herbrand's Theorem. ([note](https://github.com/hongseok-yang/logic23/blob/master/Notes/lecture11-notes.pdf), [slides](https://github.com/hongseok-yang/logic23/blob/master/Slides/lecture11-slides.pdf)).
+* Resolution for First-Order Logic. ([note](https://github.com/hongseok-yang/logic23/blob/master/Notes/lecture12-notes.pdf), [slides](https://github.com/hongseok-yang/logic23/blob/master/Slides/lecture12-slides.pdf)).
+* Compactness for First-Order Logic. ([note](https://github.com/hongseok-yang/logic23/blob/master/Notes/lecture13-notes.pdf), [slides](https://github.com/hongseok-yang/logic23/blob/master/Slides/lecture13-slides.pdf)).
+* Decidable Theories. ([note](https://github.com/hongseok-yang/logic23/blob/master/Notes/lecture14-notes.pdf), [slides](https://github.com/hongseok-yang/logic23/blob/master/Slides/lecture14-slides.pdf)).
 
-## 7. Critical Survey
 
-One important part of this course is to study an assigned topic for oneself, and write a survey about it, which also contains critiques or original thoughts of the student. This assignment accounts for the 10% of the total marks of this course. In order to get full marks, a student has to show in his or her write-up that she or he has understood the topic well, carried out in-depth studies on the topic, and thought hard and originally about it. Our evaluation adopts the following criterion: the clarity of writing (20%), the level of understanding a topic and existing work about it (40%), and the demonstration of original thoughts and insights (40%). Here are the details of this assignment.
+## 7. Programming Assignment and Report
 
-1. Don't postpone this assignments until the last moment.
-2. A submission should be at most 3 pages not including bibliography.
-3. Topic: MaxSAT Solver.
-4. Deadline: __**23:59 of the 3rd of May in 2021 (Monday). Summit in KLMS.**__
-5. Thinking about the following questions may help you.
-   1. What is a MaxSAT solver? 
-   2. What are the most popular algorithms used for efficient modern MaxSAT solvers? Are the ideas from the DPLL algorithm and clause learning used in those solves? If so, why? If not, why not?
-   3. What are the common applications of MaxSAT solvers? What would be a new interesting application for those solvers? For that application, do you expect that the algorithms for MaxSAT solvers or the interfaces to the solvers should be changed? If yes, how?
-   4. How well do modern MaxSAT solvers perform? What are the most popular MaxSAT solvers?
-   5. What do you think should be the next step in the work on MaxSAT solvers?
+Here are two tasks that you will have to do.
 
-## 8. Programming Assignment and Report
+* Implement a SAT solver using the DPLL algorithm with clause learning, which we cover in the course, and also using optimisations for SAT solving that you devise or can find in the literature. 
+* Write a report that describes what you implemented, the design decision behind your implementation, and the rationale behind those decisions. The report should be at most 4 pages excluding the bibliography and figures. For instance, you can describe a list of possible optimisations for SAT solving, analyse the cons and pros of those optimisations, explain why you decide to choose only some of these optimisations, and justify your decision with experiments. 
 
-#### 8.1. Topic
+#### 7.1. Evaluation
 
-Implement a SAT solver using the DPLL algorithm with clause learning, which we cover in the course.
+* Implementation (20%). Report (10%). 
+* The submitted implementation will be marked automatically using our automatic tester. See the specification below.
+* The submitted report will be marked based on the level of originality and experimental or theoretical thoroughness in the analysis of the submitted implementation and its design decision, in a broad context of efficient SAT solving.
 
-#### 8.2. Deadline
+#### 7.2. Deadline
 
-__**23:59 of the 24th of May in 2021 (Monday).**__ Summit both your implementation and report in KLMS.
+__**23:59 of the 22nd of May in 2023 (Monday).**__ Summit both your implementation and report in KLMS.
 
-#### 8.3. Programming Language to Use
+#### 7.3. Programming Language to Use
 
 Python 2.7 and 3.x.
 
-#### 8.4. Format of Input and Output
+#### 7.4. Format of Input and Output
 
 1. Follow DIMACS input/output requirements. You can learn about these requirements at the following URL: [http://www.satcompetition.org/2009/format-benchmarks2009.html](http://www.satcompetition.org/2009/format-benchmarks2009.html). This is the format used in the SAT competition. 
 2. Assume that the input is always in CNF format.
 
-#### 8.5. Input Interface
+#### 7.5. Input Interface
 
 The main file of your solver should be named as follows:
 
@@ -158,7 +151,7 @@ python3 solvepy3.py "testn.cnf" --- when solvepy3.py is found.
 
 Here "testn.cnf" is just an example name of a file containing a cnf formula in DIMACS format. Of course, different test cases will use different names.
 
-#### 8.6. Output Interface
+#### 7.6. Output Interface
 
 The output should specify SATISFIABLE/UNSATISFIABLE using s and give a partial assignment using v. So, if your solver is run
 
@@ -183,28 +176,28 @@ s SATISFIABLE
 v 2 5
 v -7 0
 
-#### 8.7. What to Submit in KLMS?
+#### 7.6. What to Submit in KLMS?
 
 A zip file named "dpll.zip" containing two files:
 
 1. Source code of your implementation. Make sure that you follow the specifications described above. We plan to write a script that compiles and runs your code on some test cases automatically. Locate a solvepy*.py file on the root of the zip file.
-2. 1-2 page summary on what you did. The report must be written by a word processor and submitted in a pdf format.(its file name doesn't matter) The report should contain brief explanation of your algorithm and code.
+2. A report on your implementation, its design decision, and the rationale behind or justification of the decision. The report must be written by a word processor and submitted in a pdf format. (Its file name doesn't matter.) 
+The report should be at most 4 pages without including the bibliography and figures.
 
-#### 8.8. Test Cases
+#### 7.7. Test Cases
 
 The following webpages contain benchmark problems in DIMACS format: [https://www.cs.ubc.ca/~hoos/SATLIB/benchm.html](https://www.cs.ubc.ca/~hoos/SATLIB/benchm.html) and [http://people.sc.fsu.edu/~jburkardt/data/cnf/cnf.html](http://people.sc.fsu.edu/~jburkardt/data/cnf/cnf.html). Those problems have a little bit different format described in the DIMACS format above; clause can be expressed on several lines, ill-formatted end lines. Therefore, you may need to modify your code or the problems to test them. However, the test cases for grading will strictly obey the DIMACS format above.
-I uploaded a zip file [https://github.com/hongseok-yang/logic21/blob/master/Others/Test_Case.zip] containing some test cases we used before.
-If you implemented the dpll algorithm in the lecture correctly, then your code will return a result in 1 minute (tested in i7 7700HQ).
-These file are just samples. We will try cases with various difficulty.
-Though your code returns the reuslt in 1 minute for the samples, it doesn't guarantee that your code will get a full score.
+We uploaded a zip file [https://github.com/hongseok-yang/logic23/blob/master/Others/Test_Case.zip] containing some test cases we used before.
+If you implemented the DPLL algorithm in the lecture correctly, then your code will return a result in 1 minute (tested in i7 7700HQ).
+These files are just examples, not the ones that we will use to test your code for marking. We will try new test cases with various difficulty. Thus, even when your code finds righttanswers to these examples within 1 minute, it may perform badly in our real test cases, and fail to get good marks.
 
 
-#### 8.9. Final Remark
+#### 7.8. Final Remark
 
 Make sure that your implementation handles corner cases correctly.
-There will be a timeout for each test case to check that you implemented the dpll algorithms in the lecture properly.
+There will be a timeout for each test case to check that you implemented the DPLL algorithms in the lecture properly.
 
 
-## 9. Study Materials
+## 8. Study Materials
 
-Reading the lecture notes is the recommended way to study the topics that we cover. Another useful book is Bradley and Manna's book "The Calculus of Computation", which also presents logic from the perspective of computation.
+Reading the lecture notes is the recommended way to study the topics that we cover. Another useful book is Bradley and Manna's book "The Calculus of Computation", which also presents logic from the perspective of computation. Knuth's book ``The Art of Computer Programming, 4B'' describes the techniques behind modern SAT solvers in detail.
