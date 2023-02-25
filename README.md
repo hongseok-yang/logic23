@@ -57,91 +57,43 @@ Submit your solutions in KLMS. We will create submission folders for all the hom
 
 ## 5. Tentative Plan
 
-* 02/28(Tue)
-* 03/02(Thu)
-* 03/07(Tue)
-* 03/09(Thu)
-* 03/14(Tue)
-* 03/16(Thu)
-* 03/21(Tue)
-* 03/23(Thu)
-* 03/28(Tue)
-* 03/30(Thu)
-* 04/04(Tue)
-* 04/06(Thu)
-* 04/11(Tue)
-* 04/13(Thu)
+* 02/28(Tue) - History of Mathematical Logic in Computer Science (Ch1). 
+* 03/02(Thu) - Propositional Logic (Ch2).
+* 03/07(Tue) - Equivalences and Normal Forms (Ch3). 
+* 03/09(Thu) - Equivalences and Normal Forms (Ch3). 
+* 03/14(Tue) - Polynomial-Time Formula Classes (Ch4). 
+* 03/16(Thu) - Polynomial-Time Formula Classes (Ch4). 
+* 03/21(Tue) - Polynomial-Time Formula Classes (Ch4). 
+* 03/23(Thu) - Resolution (Ch5). 
+* 03/28(Tue) - Resolution (Ch5). 
+* 03/30(Thu) - The DPLL Algorithm (Ch6). 
+* 04/04(Tue) - The DPLL Algorithm (Ch6). 
+* 04/06(Thu) - The Compactness Theorem (Ch7). 
+* 04/11(Tue) - The Compactness Theorem (Ch7). 
+* 04/13(Thu) - First-Order Logic (Ch8). 
 * 04/18(Tue) __**[NO LECTURE]**__ Midterm exam period.
 * 04/20(Thu) __**[NO LECTURE]**__ Midterm exam period.
-* 04/25(Tue)
-* 04/27(Thu)
-* 05/02(Tue)
-* 05/04(Thu)
-* 05/09(Tue)
-* 05/11(Thu)
-* 05/16(Tue)
-* 05/18(Thu)
-* 05/23(Tue)
-* 05/25(Thu)
-* 05/30(Tue)
-* 06/01(Thu)
+* 04/25(Tue) - First-Order Logic (Ch8). 
+* 04/27(Thu) - Normal Forms for First-Order Logic (Ch9). 
+* 05/02(Tue) - Normal Forms for First-Order Logic (Ch9). 
+* 05/04(Thu) - Herbrand's Theorem and Ground Resolution (Ch10). 
+* 05/09(Tue) - Herbrand's Theorem and Ground Resolution (Ch10). 
+* 05/11(Thu) - Applications of Herbrand's Theorem (Ch11). 
+* 05/16(Tue) - Applications of Herbrand's Theorem (Ch11). 
+* 05/18(Thu) - Resolution for First-Order Logic (Ch12). 
+* 05/23(Tue) - Resolution for First-Order Logic (Ch12). 
+* 05/25(Thu) - Compactness for First-Order Logic (Ch13). 
+* 05/30(Tue) - Compactness for First-Order Logic (Ch13). 
+* 06/01(Thu) - Decidable Theories (Ch14). 
 * 06/06(Tue) - __**[NO LECTURE]**__ National holiday.
-* 06/08(Thu)
+* 06/08(Thu) - Decidable Theories (Ch14). 
 * 06/13(Tue) - __**[NO LECTURE]**__ Final exam period.
 * 06/15(Thu) - __**Final exam.**__
 
 
-* 03/01(Mon) - __**NO ZOOM MEETING.**__ National Holiday.
-* 03/03(Wed) - __**[ZOOM Lecture]**__ History of Mathematical Logic in Computer Science (Ch1). ([video](https://youtu.be/DCTZ4bYxiA0)).
-* 03/03-03/10 - Propositional Logic (Ch2) and Equivalences and Normal Forms (Ch3). 
-  * Watch [video1](https://youtu.be/nN1m27usYbA) and [video2](https://youtu.be/eLSouMjDcRc).
-  * 03/10(Wed) - __**[Q&A]**__ ZOOM Q&A session ([whiteboard1](https://github.com/hongseok-yang/logic21/blob/master/Others/21Mar10-QABoard1.png), [whiteboard2](https://github.com/hongseok-yang/logic21/blob/master/Others/21Mar10-QABoard2.png), [whiteboard3](https://github.com/hongseok-yang/logic21/blob/master/Others/21Mar10-QABoard3.png), [whiteboard4](https://github.com/hongseok-yang/logic21/blob/master/Others/21Mar10-QABoard4.png)).
-* 03/10-03/17 - Equivalences and Normal Forms (Ch3) and Polynomial-Time Formula Classes (Ch4). 
-  * Watch [video1](https://youtu.be/3y7EvaWR_RA) and [video2](https://youtu.be/hhlyh4EjmRc).
-  * 03/17(Wed) - __**[Q&A]**__ ZOOM Q&A session.
-* 03/17-03/24 - Polynomial-Time Formula Classes (Ch4). 
-  * Watch [video1](https://youtu.be/ZuNTTZAseUg) and [video2](https://youtu.be/ZULtqGkJBNk).
-  * 03/24(Wed) - __**[Q&A]**__ ZOOM Q&A session.
-* 03/24-03/31 - Polynomial-Time Formula Classes (Ch4) and Resolution (Ch5). 
-  * Watch [video1](https://youtu.be/Ta0Orl0EK6I) and [video2](https://youtu.be/dZ6amsVpIS4).
-  * 03/29(Mon) - __**[Oral Test]**__ ZOOM in-class oral test on Ch1 - Ch4.
-  * 03/31(Wed) - __**[Q&A]**__ ZOOM Q&A session.
-* 03/31-04/07 - Resolution (Ch5) and The DPLL Algorithm (Ch6). 
-  * Watch [video1](https://youtu.be/EkXhCXVRnh8) and [video2](https://youtu.be/1LXIcu-89_Q).
-  * 04/07(Wed) - __**[Q&A]**__ ZOOM Q&A session.
-* 04/07-04/14 - The DPLL Algorithm (Ch6) and The Compactness Theorem (Ch7). 
-  * Watch [video1](https://youtu.be/G-BJ9GgGYNA) and [video2](https://youtu.be/Jqj6_yEv_Nw).
-  * 04/14(Wed) - __**[Q&A]**__ ZOOM Q&A session ([whiteboard1](https://github.com/hongseok-yang/logic21/blob/master/Others/21Apr14-QABoard1.png), [whiteboard2](https://github.com/hongseok-yang/logic21/blob/master/Others/21Apr14-QABoard2.png), [whiteboard3](https://github.com/hongseok-yang/logic21/blob/master/Others/21Apr14-QABoard3.png)).
-* 04/14-04/21 - The Compactness Theorem (Ch7) and First-Order Logic (Ch8). 
-  * Watch [video1](https://youtu.be/J5Xn2wVRAeo).
-  * 04/19(Mon) - __**[Oral Test]**__ ZOOM in-class oral test on Ch5 - Ch7.
-  * 04/21(Wed) - __**NO ZOOM MEETING.**__ Midterm Exam Period.
-* 04/21-04/28 - First-Order Logic (Ch8) and Normal Forms for First-Order Logic (Ch9). 
-  * Watch [video1](https://youtu.be/yj2g0bTj6v8) and [video2](https://youtu.be/nCenMVr8JkQ).
-  * 04/28(Wed) - __**[Q&A]**__ ZOOM Q&A session.
-* 04/28-05/05 - Normal Forms for First-Order Logic (Ch9) and Herbrand's Theorem and Ground Resolution (Ch10). 
-  * Watch [video1](https://youtu.be/uddtGotfn6w) and [video2](https://youtu.be/JWjBqqNT8mY).
-  * 05/05(Wed) - __**NO ZOOM MEETING.**__ National Holiday.
-* 05/05-05/12 - Herbrand's Theorem and Ground Resolution (Ch10) and Applications of Herbrand's Theorem (Ch11). 
-  * Watch [video1](https://youtu.be/Za3Ib8-XicQ) and [video2](https://youtu.be/wKehLsDALjE).
-  * 05/12(Wed) - __**[Q&A]**__ ZOOM Q&A session.
-* 05/12-05/26 - Applications of Herbrand's Theorem (Ch11) and Resolution for First-Order Logic (Ch12). 
-  * Watch [video1](https://youtu.be/j9F0c3JWQ7E) and [video2](https://youtu.be/BK55oZY2WeM).
-  * 05/17(Mon) - __**[Oral Test]**__ ZOOM in-class oral test on Ch8 - Ch11. ([whiteboard1](https://github.com/hongseok-yang/logic21/blob/master/Others/21May17-Test1.png), [whiteboard2](https://github.com/hongseok-yang/logic21/blob/master/Others/21May17-Test2.png), [whiteboard3](https://github.com/hongseok-yang/logic21/blob/master/Others/21May17-Test3.png), [whiteboard4](https://github.com/hongseok-yang/logic21/blob/master/Others/21May17-Test4.png)).
-  * 05/19(Wed) - __**NO ZOOM MEETING.**__ National Holiday.
-  * 05/26(Wed) - __**[Q&A]**__ ZOOM Q&A session.
-* 05/26-06/02 - Resolution for First-Order Logic (Ch12) and Compactness for First-Order Logic (Ch13). 
-  * Watch [video1](https://youtu.be/SzGiRIQTIDE) and [video2](https://youtu.be/SfRAdnDC2jw).
-  * 06/02(Wed) - __**[Q&A]**__ ZOOM Q&A session.
-* 06/02-06/09 - Decidable Theories (Ch14). 
-  * Watch [video1](https://youtu.be/Gz2kXyywx7w) and [video2](https://youtu.be/H20s0lbXMvA).
-  * 06/09(Wed) - __**[Q&A]**__ ZOOM Q&A session.
-* 06/14(Mon) - __**[Oral Test]**__ ZOOM in-class oral test on Ch12 - Ch14.
-* 06/16(Wed) - __**NO ZOOM MEETING.**__ Final Exam Period.
-
 ## 6. Lecture Notes and Slides
 
-The recorded online lectures are based on the following lecture notes and slides, which are minor variants of Prof Christoph Haase's version of Prof James Worrell's lecture notes and slides. The lecture notes are self-contained and explain key concepts clearly and briefly. Reading them is a recommended way to study the topics that we cover throughout the course.
+The lectures are based on the following lecture notes and slides, which are minor variants of Prof Christoph Haase's version of Prof James Worrell's lecture notes and slides. The lecture notes are self-contained and explain key concepts clearly and briefly. Reading them is a recommended way to study the topics that we cover throughout the course.
 
 * History of Mathematical Logic in Computer Science. ([note](https://github.com/hongseok-yang/logic21/blob/master/Notes/lecture1-notes.pdf), [slides](https://github.com/hongseok-yang/logic21/blob/master/Slides/lecture1-slides.pdf)).
 * Propositional Logic. ([note](https://github.com/hongseok-yang/logic21/blob/master/Notes/lecture2-notes.pdf), [slides](https://github.com/hongseok-yang/logic21/blob/master/Slides/lecture2-slides.pdf)).
