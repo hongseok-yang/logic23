@@ -126,13 +126,13 @@ Here are two tasks that you will have to do.
 
 #### 7.2. Deadline
 
-__**23:59 of the 22nd of May in 2023 (Monday).**__ Summit both your implementation and report in KLMS.
+* __**23:59 of the 22nd of May in 2023 (Monday).**__ Summit both your implementation and report in KLMS.
 
 #### 7.3. Programming Language to Use
 
-Python 2.7 and 3.x.
+* Python 2.7 and 3.x.
 
-#### 7.4. Format of Input and Output
+#### 7.4. Formats of Input and Output
 
 1. Follow DIMACS input/output requirements. You can learn about these requirements at the following URL: [http://www.satcompetition.org/2009/format-benchmarks2009.html](http://www.satcompetition.org/2009/format-benchmarks2009.html). This is the format used in the SAT competition. 
 2. Assume that the input is always in CNF format.
