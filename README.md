@@ -116,7 +116,7 @@ The lectures are based on the following lecture notes and slides, which are mino
 
 Here are two tasks that you will have to do.
 
-* Implement a SAT solver using the DPLL algorithm with clause learning, which we cover in the course, and also using optimisations for SAT solving that you devise or can find in the literature. 
+* Implement a SAT solver using the DPLL algorithm with clause learning, which we cover in the course, and also using optimisations for SAT solving that you devise or can find in the literature. Your implementation should not use any external python libraries directly related to SAT solving. 
 * Write a report that describes what you implemented, the design decision behind your implementation, and the rationale behind those decisions. The report should be at most 4 pages excluding the bibliography and figures. For instance, you can describe a list of possible optimisations for SAT solving, analyse the cons and pros of those optimisations, explain why you decide to choose only some of these optimisations, and justify your decision with experiments. 
 
 #### 6.1. Evaluation
@@ -131,7 +131,7 @@ Here are two tasks that you will have to do.
 
 #### 6.3. Programming Language to Use
 
-* Python 2.7 and 3.x.
+* Python 3.7-10.
 
 #### 6.4. Formats of Input and Output
 
@@ -142,12 +142,10 @@ Here are two tasks that you will have to do.
 
 The main file of your solver should be named as follows:
 
-* solvepy2.py --- if you are using python 2.7
-* solvepy3.py --- if you are usin python 3.x
+* solvepy3.py 
 
-We plan to write a script that runs your solver with a cnf formula stored in a file (according to DIMACS format). The script searches for the solvepy2.py or solvepy3.py file in your submission, and runs something like
+We plan to write a script that runs your solver with a cnf formula stored in a file (according to DIMACS format). The script searches for the solvepy3.py file in your submission, and runs something like
 
-* python2 solvepy2.py "testn.cnf" --- when solvepy2.py is found,
 * python3 solvepy3.py "testn.cnf" --- when solvepy3.py is found.
 
 Here "testn.cnf" is just an example name of a file containing a cnf formula in DIMACS format. Of course, different test cases will use different names.
