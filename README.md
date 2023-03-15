@@ -57,7 +57,7 @@ We adopt a very strict policy for handling dishonest behaviours. If a student is
 
 Submit your solutions in KLMS. We will create submission folders for all the homework assignments in KLMS.
 
-* [Homework1](https://github.com/hongseok-yang/logic23/blob/master/Homework/sheet1.pdf) - Deadline: 6:00pm on 31 March 2021 (Friday).
+* [Homework1](https://github.com/hongseok-yang/logic23/blob/master/Homework/sheet1.pdf) - Deadline: 6:00pm on 31 March 2023 (Friday).
 * Homework2
 * Homework3
 * Homework4
