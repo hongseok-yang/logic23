@@ -8,7 +8,7 @@ CS402 is a course on logic with emphasis on its use for computer science. Its go
 
 #### [May 14] [Homework4](https://github.com/hongseok-yang/logic23/blob/master/Homework/sheet4.pdf) is out.
 
-The homework assignment 4 is out. Submit your solutions in KLMS by 6:00pm on 26 May 2023 (Friday).
+The homework assignment 4 is out. Submit your solutions in KLMS by 6:00pm on 30 May 2023 (Tuesday).
 
 We remind the students that we adopt a very strict policy for handling dishonest behaviours. If a student is found to copy answers from peers or other sources in her or his submission for this homework assignment, he or she will get F.
 
@@ -80,7 +80,7 @@ Submit your solutions in KLMS. We will create submission folders for all the hom
 * [Homework1](https://github.com/hongseok-yang/logic23/blob/master/Homework/sheet1.pdf) - Deadline: 6:00pm on 31 March 2023 (Friday).
 * [Homework2](https://github.com/hongseok-yang/logic23/blob/master/Homework/sheet2.pdf) - Deadline: 6:00pm on 14 April 2023 (Friday).
 * [Homework3](https://github.com/hongseok-yang/logic23/blob/master/Homework/sheet3.pdf) - Deadline: 6:00pm on 12 May 2023 (Friday).
-* [Homework4](https://github.com/hongseok-yang/logic23/blob/master/Homework/sheet4.pdf) - Deadline: 6:00pm on 26 May 2023 (Friday).
+* [Homework4](https://github.com/hongseok-yang/logic23/blob/master/Homework/sheet4.pdf) - Deadline: 6:00pm on 30 May 2023 (Tuesday).
 
 ## 4. Tentative Plan
 
