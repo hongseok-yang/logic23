@@ -8,7 +8,7 @@ CS402 is a course on logic with emphasis on its use for computer science. Its go
 
 #### [May 29] Last lecture.
 
-The last lecture will be given on 1 June (Thursday). The topic of the lecture will be quantified boolean formulas, polynomial hierarchy, and polynomial space. The materials covered in the lecture will not be assessed in the final exam. 
+The lecture on 1 June (Thursday) will be the last lecture of this course. In that lecture, I plan to cover quantified boolean formulas, polynomial hierarchy, and polynomial space, which are the topics requested by one student of the course. These topics covered in the lecture will not be assessed in the final exam. 
 
 #### [May 14] [Homework4](https://github.com/hongseok-yang/logic23/blob/master/Homework/sheet4.pdf) is out.
 
