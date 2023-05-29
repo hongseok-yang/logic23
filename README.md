@@ -140,6 +140,7 @@ The lectures are based on the following lecture notes and slides, which are mino
 * Resolution for First-Order Logic. ([note](https://github.com/hongseok-yang/logic23/blob/master/Notes/lecture12-notes.pdf), [slides](https://github.com/hongseok-yang/logic23/blob/master/Slides/lecture12-slides.pdf)).
 * Compactness for First-Order Logic. ([note](https://github.com/hongseok-yang/logic23/blob/master/Notes/lecture13-notes.pdf), [slides](https://github.com/hongseok-yang/logic23/blob/master/Slides/lecture13-slides.pdf)).
 * Decidable Theories. ([note](https://github.com/hongseok-yang/logic23/blob/master/Notes/lecture14-notes.pdf), [slides](https://github.com/hongseok-yang/logic23/blob/master/Slides/lecture14-slides.pdf)).
+* Quantified Boolean Formulas, Polynomial Hierarchy, and Polynomial Space. ([note](https://github.com/hongseok-yang/logic23/blob/master/Notes/lecture15-notes.pdf)).
 
 
 ## 6. Programming Assignment and Report
