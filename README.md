@@ -6,6 +6,10 @@ CS402 is a course on logic with emphasis on its use for computer science. Its go
 
 ## 1. Important Announcements
 
+#### [May 29] Last lecture.
+
+The last lecture will be given on 1 June (Thursday). The topic of the lecture will be quantified boolean formulas, polynomial hierarchy, and polynomial space. The materials covered in the lecture will not be assessed in the final exam. 
+
 #### [May 14] [Homework4](https://github.com/hongseok-yang/logic23/blob/master/Homework/sheet4.pdf) is out.
 
 The homework assignment 4 is out. Submit your solutions in KLMS by 6:00pm on 30 May 2023 (Tuesday).
@@ -102,18 +106,18 @@ Submit your solutions in KLMS. We will create submission folders for all the hom
 * 04/20(Thu) __**[NO LECTURE]**__ Midterm exam period.
 * 04/25(Tue) - First-Order Logic (Ch8). 
 * 04/27(Thu) - Normal Forms for First-Order Logic (Ch9). 
-* 05/02(Tue) - Normal Forms for First-Order Logic (Ch9). 
+* 05/02(Tue) - Herbrand's Theorem and Ground Resolution (Ch10). 
 * 05/04(Thu) - Herbrand's Theorem and Ground Resolution (Ch10). 
-* 05/09(Tue) - Herbrand's Theorem and Ground Resolution (Ch10). 
+* 05/09(Tue) - Applications of Herbrand's Theorem (Ch11). 
 * 05/11(Thu) - Applications of Herbrand's Theorem (Ch11). 
-* 05/16(Tue) - Applications of Herbrand's Theorem (Ch11). 
-* 05/18(Thu) - Resolution for First-Order Logic (Ch12). 
-* 05/23(Tue) - Resolution for First-Order Logic (Ch12). 
-* 05/25(Thu) - Compactness for First-Order Logic (Ch13). 
-* 05/30(Tue) - Compactness for First-Order Logic (Ch13). 
-* 06/01(Thu) - Decidable Theories (Ch14). 
+* 05/16(Tue) - Resolution for First-Order Logic (Ch12). 
+* 05/18(Thu) - Compactness for First-Order Logic (Ch13). 
+* 05/23(Tue) - Compactness for First-Order Logic (Ch13). 
+* 05/25(Thu) - Decidable Theories (Ch14). 
+* 05/30(Tue) - Decidable Theories (Ch14). 
+* 06/01(Thu) - Quantified Boolean Formulas, Polynomial Hierarchy, and Polynomial Space.
 * 06/06(Tue) - __**[NO LECTURE]**__ National holiday.
-* 06/08(Thu) - Decidable Theories (Ch14). 
+* 06/08(Thu) - __**[NO LECTURE]**__ All the course materials are covered.
 * 06/13(Tue) - __**[NO LECTURE]**__ Final exam period.
 * 06/15(Thu) - __**Final exam.**__
 
